@@ -12,6 +12,7 @@ public class fibonnaci {
             a= b;
             b = next;
         }
+        sc.close();
     }
     
 }
