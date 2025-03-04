@@ -17,5 +17,6 @@ public class perfect {
         else{
             System.out.println("Not a Perfect number");
         }
+        
     }
 }
